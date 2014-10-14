@@ -1,4 +1,4 @@
-Krugercoin - a fork of Litecoin version with fast block time and faster confirmations (4 confirmations needed instead of 6). Like Litecoin it uses scrypt as a proof of work scheme.
+Castlecoin - a fork of Litecoin version with fast block time and faster confirmations (4 confirmations needed instead of 6). Like Litecoin it uses scrypt as a proof of work scheme.
 
 	- 15 seconds block target
 	- Difficulty retargets every 0.35 day
